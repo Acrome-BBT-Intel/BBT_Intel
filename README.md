@@ -23,6 +23,7 @@ TO INSTALL:
 sudo python setup.py install
 
 TO RUN SCRIPT:
+
 sudo pigpiod
 sudo python udp_controller.py 
 
