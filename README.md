@@ -27,7 +27,6 @@ TO RUN SCRIPT:
 sudo pigpiod
 sudo python udp_controller.py 
 
-
 Requirements
 -----
 
